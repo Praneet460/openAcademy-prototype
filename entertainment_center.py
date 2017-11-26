@@ -4,7 +4,7 @@ import media
 guardians = media.Movie("Guardians of the Galaxy",
                         "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
                         "http://t2.gstatic.com/images?q=tbn:ANd9GcQW3LbpT94mtUG1PZIIzJNxmFX399wr_NcvoppJ82k7z99Hx6in",
-                        "https://www.youtube.com/watch?v=4hdv_6gl4gk&list=PLScC8g4bqD47c-qHlsfhGH3j6Bg7jzFy-&index=3")
+                        "https://www.youtube.com/watch?v=kw4tT7SCmaY")
 
 belko = media.Movie("The Belko Experiment",
                      "In a twisted social experiment, 80 Americans are locked in their high-rise corporate office in Bogota, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed.",
