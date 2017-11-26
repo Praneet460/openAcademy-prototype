@@ -3,7 +3,7 @@ import media
 
 guardians = media.Movie("Guardians of the Galaxy",
                         "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
-                        "http://t2.gstatic.com/images?q=tbn:ANd9GcQW3LbpT94mtUG1PZIIzJNxmFX399wr_NcvoppJ82k7z99Hx6in",
+                        "https://upload.wikimedia.org/wikipedia/commons/c/c5/M%C3%A5rten_Eskil_Winge_-_Tor%27s_Fight_with_the_Giants_-_Google_Art_Project.jpg",
                         "https://www.youtube.com/watch?v=of1OhDiwVD0&index=1&list=PLScC8g4bqD47c-qHlsfhGH3j6Bg7jzFy-")
 
 belko = media.Movie("The Belko Experiment",
